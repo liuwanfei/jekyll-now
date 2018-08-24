@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I am working as a Data Scientist and always proud of being called a 'NERD' by my friends!  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hello World!! Welcome to my blog. I am very thrilled that I finally create a space to share my learning with you all. Any feedback and discussion is very welcomed. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[liuwanfei@gmail.com](mailto:liuwanfei@gmail.com)
