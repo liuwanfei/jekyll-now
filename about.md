@@ -4,11 +4,13 @@ title: About Me
 permalink: /about/
 ---
 
-I am working as a Data Scientist and always proud of being called a 'NERD' by my friends!  
+A Data Scientist who enjoys learning A LOT! My cat Milo is my boss at home but I love him A LOT!! 
 
 ### More Information
 
-Hello World!! Welcome to my blog. I am very thrilled that I finally create a space to share my learning with you all. Any feedback and discussion is very welcomed. 
+Hello World! Welcome to my blog! As a big fan of self-taught learning, I am very thrilled that I finally create a space to share my learning with you. I also plan to use this space to document my own journey in *Data Science* world. 
+
+Enjoy!
 
 ### Contact me
 
