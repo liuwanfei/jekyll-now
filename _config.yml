@@ -9,7 +9,7 @@ name: Sunny Liu
 description: I Learn Everyday!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.google.com/search?q=github+nija+image&tbm=isch&tbs=rimg:CeKh3xc2XyoRIjhc7HabFF4aNxh8sLojnwvpFqzkl5wZpb9Ad8Bx8zBeRa97qgl0UloBfhtF2QuZ2jKlc7VFxXYe2SoSCVzsdpsUXho3Ec1cXH7seMjtKhIJGHywuiOfC-kRQ0SWfdvrzaQqEgkWrOSXnBmlvxF6iyv9Z1yjWioSCUB3wHHzMF5FEfH8zYlE0g_1yKhIJr3uqCXRSWgER0iTu4mGlY9oqEgl-G0XZC5naMhHpGb9PRvRqsSoSCaVztUXFdh7ZETlg5aEzslhI&tbo=u&sa=X&ved=2ahUKEwii0dTx54TdAhXoYd8KHZ8ABM8Q9C96BAgBEBs&biw=2133&bih=1000&dpr=0.9#imgrc=XOx2mxReGjclHM:
+avatar: https://avatars1.githubusercontent.com/u/650760?v=3&s=400
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email: liuwanfei@gmail.com
   facebook:
   flickr:
-  github: https://github.com/liuwanfei
+  github: /liuwanfei
   instagram:
-  linkedin: https://www.linkedin.com/in/sunny-liu-usa/
+  linkedin: /in/sunny-liu-usa/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
