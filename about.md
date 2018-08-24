@@ -4,11 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-A Data Scientist who enjoys learning A LOT! My cat Milo is my boss at home but I love him A LOT!! 
+Work as a Data Scientist, LOVE my cat Milo & Enjoy travels a lot!
 
 ### More Information
 
-Hello World! Welcome to my blog! As a big fan of self-taught learning, I am very thrilled that I finally create a space to share my learning with you. I also plan to use this space to document my own journey in *Data Science* world. 
+`Hello World!` Welcome to my github blog page! As a big fan of self-taught learning, I am very thrilled that I finally create a space to share my learning with you. I also plan to use this space to document my own journey in *Data Science* world. 
 
 Enjoy!
 
