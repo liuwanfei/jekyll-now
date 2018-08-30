@@ -16,7 +16,7 @@ I still clearly remember my mentor once told me that knowing how to sample your 
 4. Combine the random selected lists and order them with scores high to low, and put in production to have the system auto assign to AEs to call.
 
 Below is the python code I use:
-```python
+```ruby
 final_df = pd.DataFrame()
 from_old_list = 65
 
